@@ -1,0 +1,4 @@
+- 👋 Hi, I’m NAYAN CH. DATTA, @nchdatta
+- 👀 I’m interested in Programming, Specially Web Programming.
+- 🌱 I’m currently learning MERN, FULL STACK WEB DEVELOPMENT.
+- 💞️ I’m looking to collaborate on anything about Web Programming.
