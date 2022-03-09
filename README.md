@@ -2,3 +2,4 @@
 - 👀 I’m interested in Programming, Specially Web Programming.
 - 🌱 I’m currently learning MERN, FULL STACK WEB DEVELOPMENT.
 - 💞️ I’m looking to collaborate on anything about Web Programming.
+-  My Resume: https://drive.google.com/file/d/1pNBgtXq-kz2XEm873_nQpsNIMOuAZb2a/view?usp=sharing
