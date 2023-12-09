@@ -26,7 +26,3 @@ Curious about my progress and experiences in the world of coding? Check out my [
 ## Let's Connect! 🤝
 
 I'm always eager to connect with fellow developers, enthusiasts, or anyone passionate about tech and coding. Feel free to reach out, and let's create something awesome together!
-
----
-
-Feel free to use this template, replacing the placeholders with your actual information and links. Happy coding! 🚀💻
